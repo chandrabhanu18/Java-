@@ -1,5 +1,4 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
+//  Day-1 practice 
 import java.util.*;
 class Main {
     public int reverse(int a){
